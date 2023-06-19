@@ -4,7 +4,7 @@
 ---
 The Cosmic Cocktail Generator is an interactive application that produces a generated cocktail based on the user's zodiac sign. 
 
-[Cosmic Cocktail Generator](https://putmylinkhere)
+[Cosmic Cocktail Generator](https://firene11.github.io/cosmic-cocktail/)
 
 ## Usage
 ---
